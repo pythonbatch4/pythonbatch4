@@ -1,3 +1,5 @@
+# Hi this is modified code using github and git
+
 import psycopg2
 conn1=psycopg2.connect(user="postgres",
                             password="GURUG",
